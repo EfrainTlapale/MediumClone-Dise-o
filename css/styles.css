@@ -1,0 +1,76 @@
+body{
+  margin: 67px 0px 0px 0px;
+}
+a{
+  color: #02b875;
+  text-decoration: none;
+}
+.perfil {
+  height: 390px;
+  box-shadow: 0px 5px 5px #F8F3F3;
+  padding: 10px 22% 0px 22%;
+}
+.sinMargen{
+  margin: 0;
+}
+.container{
+  background-color: #fafafa;
+  margin: 0;
+  padding-top: 10px;
+  margin-top: 5px;
+  padding-bottom: 100px;
+}
+.nav{
+  top: 0px;
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  height: 65px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F8F3F3;
+}
+.ultimos{
+  height: 22px;
+  margin: 50px 20% 20px 20%;
+  padding-left: 20px;
+
+}
+.tarjeta{
+  background-color: #FFFFFF;
+  margin: 0pc 20% 10px 20%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F8F3F3;
+  padding: 10px 10px 10px 10px;
+}
+.navlist{
+  list-style-type: none;
+}
+.itemlista{
+  display: block;
+  float: left;
+}
+.itemlistaderecha{
+  float: right;;
+  padding: 0 10px 0 10px;
+}
+.textogris{
+  color: #978f8f;
+}
+.textogrisoscuro{
+  color: rgba(0,0,0,.6);
+  font-size: 16px;
+}
+.margenderecho{
+  margin-right: 40%;
+}
+.greenbtn{
+  font-size: 16px;
+  padding: 0px 20px 0px 20px;
+  border-radius: 25px;
+  color: white;
+  background-color: #02b875;
+  border: none;
+  height: 2.5em;
+}
